@@ -1,8 +1,10 @@
 name: Call Reusable Tagging Workflow
 
 permissions:
-  contents: write
-
+  contents: read
+  actions: read
+  id-token: write
+  
 on:
   workflow_dispatch:
   push:
