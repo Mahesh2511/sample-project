@@ -1,3 +1,24 @@
+### v3.0.0 - 2025-08-04
+## Release v3.0.0
+
+### New Features
+
+No new features in this release.
+
+### Bug Fixes
+
+- fix: Update test.txt
+- fix: Update test.txt
+
+### Breaking Changes
+
+- BREAKING CHANGE: added line in test file
+- BREAKING CHANGE: Update test.txt
+
+### Known Issues
+
+⚠️ Please manually add known issues here before publishing the release.
+
 ### v2.1.0 - 2025-08-04
 ## Release v2.1.0
 
