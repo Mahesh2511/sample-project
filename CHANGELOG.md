@@ -1,3 +1,22 @@
+### v2.1.0 - 2025-08-04
+## Release v2.1.0
+
+### New Features
+
+- feat: Update test.txt
+
+### Bug Fixes
+
+No bug fixes in this release.
+
+### Breaking Changes
+
+No breaking changes in this release.
+
+### Known Issues
+
+⚠️ Please manually add known issues here before publishing the release.
+
 ### v2.0.2 - 2025-08-04
 ## Release v2.0.2
 
