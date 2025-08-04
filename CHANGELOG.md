@@ -1,3 +1,22 @@
+### v2.0.2 - 2025-08-04
+## Release v2.0.2
+
+### New Features
+
+No new features in this release.
+
+### Bug Fixes
+
+- fix: Update commitlint.config.js
+
+### Breaking Changes
+
+No breaking changes in this release.
+
+### Known Issues
+
+⚠️ Please manually add known issues here before publishing the release.
+
 ### v2.0.1 - 2025-08-04
 ## Release v2.0.1
 
