@@ -1,3 +1,22 @@
+### v2.0.0 - 2025-08-04
+## Release v2.0.0
+
+### New Features
+
+No new features in this release.
+
+### Bug Fixes
+
+No bug fixes in this release.
+
+### Breaking Changes
+
+- BREAKING CHANGE: Merge pull request #2 from Mahesh2511/feature/fix1
+
+### Known Issues
+
+⚠️ Please manually add known issues here before publishing the release.
+
 ### v1.2.0 - 2025-08-04
 ## Release v1.2.0
 
