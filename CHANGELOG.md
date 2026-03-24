@@ -1,3 +1,22 @@
+### v3.1.0 - 2026-03-24
+## Release v3.1.0
+
+### New Features
+
+- feat: update CI workflow to run Jest tests
+
+### Bug Fixes
+
+No bug fixes in this release.
+
+### Breaking Changes
+
+No breaking changes in this release.
+
+### Known Issues
+
+⚠️ Please manually add known issues here before publishing the release.
+
 ### v3.0.0 - 2025-08-04
 ## Release v3.0.0
 
